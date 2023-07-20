@@ -42,10 +42,6 @@ To use this code, you need the following hardware components:
 
 5. To reset the stopwatch, press the third button (Button3). This will set the elapsed time to zero.
 
-## Known Issues
-
-Currently, there are no known issues with the FunShield Stopwatch application. However, if you encounter any problems or have suggestions for improvement, feel free to create an issue in the "FunShield Stopwatch" repository (provide a link to the repository).
-
 ## Authors
 
 - [Jiří Zelena] - Initial implementation
