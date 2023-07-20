@@ -1,4 +1,4 @@
-# FunShield Stopwatch Readme
+# Arduino FunShield Stopwatch 
 
 The FunShield Stopwatch is an Arduino-based stopwatch application that utilizes the FunShield hardware, including a 4-digit 7-segment display and three buttons. This application allows users to measure time, lap time, and reset the stopwatch. It is a simple and interactive project suitable for beginners and hobbyists.
 
